@@ -14,6 +14,6 @@ repository on Github.
 
 [Link to a document]({% link collections/name-of-document.md %})
 
-[Link to a post]({% link _posts/2016-07-26-name-of-post.md %})
+[Link to a post]({% link _posts/2020-05-01-bitbuckit-and-gitlab-users.md %})
 
 [Link to a page]({% link news/index.md %})

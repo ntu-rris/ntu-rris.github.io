@@ -43,7 +43,7 @@ sass:
 
 include: [ ]
 
-exclude: [ Rakefile, Ref, node_modules ]
+exclude: [ "*-", "*~", Rakefile, Ref, node_modules/, package.json, package-lock.json ]
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
