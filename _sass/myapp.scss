@@ -1,7 +1,13 @@
-// warning: no frontmatter in _sass/files
 body {
   padding-top: 0px;
+  margin-top: 0px;
 }
-.current {
-  color: green;
+
+main {
+  margin-top: 5px;
+}
+
+.navbar {
+  padding-bottom: 0px;
+  margin-bottom: 0px !important;
 }

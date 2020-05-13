@@ -12,8 +12,6 @@ on Github.
 We expect all active projects to make at least a weekly update of their software
 repository on Github.
 
-[Link to a document]({% link collections/name-of-document.md %})
-
-[Link to a post]({% link _posts/2020-05-01-bitbuckit-and-gitlab-users.md %})
-
-[Link to a page]({% link news/index.md %})
+[Bitbucket/Gitlab users]({% link _posts/2020-05-01-bitbuckit-and-gitlab-users.md %})<br>
+[Recommendation of markdown for documentation]({% link _posts/2020-05-02-recommendation-for-markdown-documentation-format.md%})<br>
+[What's new]({% link news/index.md %})
